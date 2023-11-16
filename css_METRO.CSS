@@ -93,6 +93,7 @@ footer{
 	background-position:center;
 	width:865px;
 	height:auto;
+        flex-wrap: wrap;
 }
 #metro{
 	justify-content:center;
