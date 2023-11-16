@@ -1,0 +1,111 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+	
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+.meta {
+    color: #777;
+}
+
+.image-container {
+    display: flex; /* Exibe as imagens lado a lado */
+    justify-content: space-between; /* Adiciona algum espaço entre as imagens */
+    margin-bottom: 80px;
+}
+
+.image-container img {
+    width: 48%; /* Define a largura das imagens */
+    border-radius: 30px;
+}
+
+.lead {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #555;
+    margin-bottom: 20px;
+	justify-content:center;
+}
+cite {
+    display: block;
+    margin-top: 10px;
+    font-style: italic;
+    color: #555;
+}
+#Maquinista{
+	display:flex;
+	justify-content: space-between;
+	 margin-bottom: 80px;
+	width: 48%; /* Define a largura das imagens */
+    border-radius: 30px;
+}
+.container-maqui {
+    display: flex; /* Exibe as imagens lado a lado */
+    justify-content: center; /* Adiciona algum espaço entre as imagens */
+    margin-bottom: 80px;
+}
+
+.container-maqui img {
+    width: 48%; /* Define a largura das imagens */
+	border-radius: 30px;
+}
+.container-maqui1 {
+    display: flex; /* Exibe as imagens lado a lado */
+    justify-content: center; /* Adiciona algum espaço entre as imagens */
+    margin-bottom: ;
+}
+.container-maqu{
+	display:flex;
+	justify-content:space-around;
+}
+footer{
+	margin-left:250px;
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	background-image:url("gptd.png");
+	background-repeat:no-repeat;
+	background-size:;
+	background-position:center;
+	width:865px;
+	height:auto;
+}
+#metro{
+	justify-content:center;
+}
+.container-maq{
+	display:flex;
+	justify-content:center;
+}
+ul{
+	font-size:15px;
+}
+center#ct{
+	display:flex;
+	align-items:center;
+	justify-content:space-around;
+}
