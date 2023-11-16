@@ -94,10 +94,6 @@ footer{
 	display:flex;
 	flex-direction:row;
 	justify-content:center;
-	background-image:url("gptd.png");
-	background-repeat:no-repeat;
-	background-size:;
-	background-position:center;
         flex-wrap: wrap;
 }
 #metro{
